@@ -34,7 +34,7 @@ website:
 
 format:
   html:
-    theme: yeti # for more themes see https://bootswatch.com/
+    theme: sandstone # for more themes see https://bootswatch.com/
     css: styles.css # this file allows you to customize style
     toc: true
 
